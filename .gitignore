@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+env/
+venv/
+chatbot/  # Your virtual environment is inside this folder (based on your earlier image)
+
+# Environment variables and secrets
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode or PyCharm config (optional)
+.vscode/
+.idea/
